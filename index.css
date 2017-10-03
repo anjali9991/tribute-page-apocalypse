@@ -2,15 +2,23 @@ h1{
     text-align: center;
     font-size: 100px;
     color: black;
+    margin-left:10%;
+    margin-right:10%;
+    margin-bottom:10%;
+    margin-top:10%;
 }
 
 body{
     background-color: antiquewhite;
 }
+
 img{
     display: block;
-    margin: 0 auto;
-    max-width: 100%;
+    margin-top:1%;
+     margin-left:1%;
+    margin-right:1%;
+    margin-bottom:1%;
+    width:100%;
     border-radius: 50px;
 }
 figcaption{
@@ -19,17 +27,24 @@ figcaption{
     padding-top: 25px;
     color: grey;
 }
+
 #p1{
     font-size: 18px;
     column-count: 2;
     padding: 10px 10px;
     column-gap: 55px;
+    margin-left:10%;
+    margin-right:10%;
+    margin-bottom:10%;
+    margin-top:10%;
 }
 div{
     font-size: 18px;
     font-family: sans-serif;
     text-align: center;
     padding-bottom: 20px;
+     margin-left:10%;
+    margin-right:10%;
     
 }
 #last{
@@ -40,6 +55,8 @@ div{
     column-gap: 55px;
     font-family: 'Lora', serif;
     padding-left: 20px;
+    margin-left:10%;
+    margin-right:10%;
 }
 #last2{
     padding-top: 20px;
@@ -47,4 +64,8 @@ div{
 }
 blockquote{
     font-size: 30px;
+    margin-left:10%;
+    margin-right:10%;
+    margin-bottom:10%;
+    margin-top:10%;
 }
